@@ -2,7 +2,7 @@ import json
 import pickle
 from pre_processor import input_parser
 
-classifier_folder_path = "model/movie_classifier.pkl"
+classifier_folder_path = ""
 
 
 def lambda_handler(event, context):
